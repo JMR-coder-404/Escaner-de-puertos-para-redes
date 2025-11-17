@@ -16,12 +16,12 @@ El script no requiere instalación, solo necesita permisos de ejecución.
 2.  Ejecutar el escáner:
     El script necesita un argumento obligatorio
     bash
-    ./portScan.sh <IP_Objetivo>
+    ./portscan.sh <IP_Objetivo>
     
 
 3.  Ejemplo:
     Para escanear los puertos
     bash
-    ./portScan.sh 127.0.0.1 1
+    ./portscan.sh (IP_Objetivo)
     
 
